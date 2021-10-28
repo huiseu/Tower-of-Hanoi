@@ -1,0 +1,36 @@
+.parent{
+
+    bottom: 0;
+    width: 90%;
+    height: 600px;
+    margin: 10px auto;
+}
+
+#first {
+    border: 1px solid red;
+    float: left;
+    width: 300px;
+    height: 500px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+#second{
+    border: 1px solid green;
+    float: left;
+    margin-left: 5%;
+    width: 300px;
+    height: 500px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+#third{
+    border: 1px solid blue;
+    float: left;
+    margin-left: 5%;
+    width: 300px;
+    height: 500px;
+    box-sizing: border-box;
+    text-align: center;
+}
